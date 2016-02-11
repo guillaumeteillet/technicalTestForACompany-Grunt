@@ -1,2 +1,2 @@
-# technicalTestForCheckoutComGruntAndGulp
-Technical Test For Checkout.com - Grunt And Gulp
+# Technical Test For Checkout.com - Grunt
+Technical Test For Checkout.com - Grunt
