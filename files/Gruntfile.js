@@ -34,5 +34,5 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-string-replace');
 
 
-   grunt.registerTask('doWork', ['copy', 'string-replace']);
+   grunt.registerTask('DoWork', ['copy', 'string-replace']);
 }
