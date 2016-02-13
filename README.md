@@ -11,7 +11,14 @@ You need npm : https://www.npmjs.com/package/download
 git clone https://github.com/guillaumeteillet/technicalTestForCheckoutComGrunt grunt
 cd grunt/files
 npm install
+npm install -g grunt-cli
 grunt DoWork
 ```
 
 Now, you can open index.html
+
+### How to remove grunt ?
+
+```
+npm uninstall -g grunt-cli
+```
