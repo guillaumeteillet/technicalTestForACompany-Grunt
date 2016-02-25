@@ -1,5 +1,5 @@
-# Technical Test For Checkout.com - Grunt
-Technical Test For Checkout.com - Grunt
+# Technical Test For a company - Grunt
+Technical Test For a company - Grunt
 
 ### Prerequisites
 
@@ -8,7 +8,7 @@ You need npm : https://www.npmjs.com/package/download
 ### How it works ?
 
 ```
-git clone https://github.com/guillaumeteillet/technicalTestForCheckoutComGrunt grunt
+git clone https://github.com/guillaumeteillet/technicalTestForACompany-Grunt grunt
 cd grunt/files
 npm install
 npm install -g grunt-cli
